@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$.qNH.KyGGDlkg7vTqZdGB.KOMbEf1y60GKoLbGwf8Xc/iGQq6ryze",
+      "UserName": "admin",
+      "FirstName": "admin",
+      "LastName": "admin",
+      "id": 8
+    }
+  ],
+  "participantes": [
+    {
+      "id": 1,
+      "nome": "Babu Santana"
+    },
+    {
+      "id": 2,
+      "nome": "Telma"
+    },
+    {
+      "id": 3,
+      "nome": "Teste"
+    }
+  ],
+  "votos": [
+    {
+      "idparticipante": 1,
+      "idusuario": "",
+      "data": "",
+      "id": 1
+    }
+  ]
+}
